@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySlipCalculator.Web", "PaySlipCalculator.Web\PaySlipCalculator.Web.csproj", "{93A71D20-19AE-489B-949C-288E8BE6CF0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySlipCalculator.Core", "PaySlipCalculator.Core\PaySlipCalculator.Core.csproj", "{65FB0674-E74F-4F1D-964B-FB1AB4AC0B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySlipCalculator.Core.Test", "PaySlipCalculator.Test\PaySlipCalculator.Core.Test.csproj", "{764E5501-0A77-4EED-A6CF-3BE2F75192C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySlipCalculator.Web.Test", "PaySlipCalculator.Web.Test\PaySlipCalculator.Web.Test.csproj", "{FB7FE882-F850-49D6-99CA-A2D826D67564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93A71D20-19AE-489B-949C-288E8BE6CF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A71D20-19AE-489B-949C-288E8BE6CF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A71D20-19AE-489B-949C-288E8BE6CF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A71D20-19AE-489B-949C-288E8BE6CF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65FB0674-E74F-4F1D-964B-FB1AB4AC0B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FB0674-E74F-4F1D-964B-FB1AB4AC0B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FB0674-E74F-4F1D-964B-FB1AB4AC0B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FB0674-E74F-4F1D-964B-FB1AB4AC0B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764E5501-0A77-4EED-A6CF-3BE2F75192C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764E5501-0A77-4EED-A6CF-3BE2F75192C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764E5501-0A77-4EED-A6CF-3BE2F75192C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764E5501-0A77-4EED-A6CF-3BE2F75192C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7FE882-F850-49D6-99CA-A2D826D67564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7FE882-F850-49D6-99CA-A2D826D67564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7FE882-F850-49D6-99CA-A2D826D67564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7FE882-F850-49D6-99CA-A2D826D67564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD9B3E30-5405-4111-83CB-4F1D0CEA1E04}
+	EndGlobalSection
+EndGlobal

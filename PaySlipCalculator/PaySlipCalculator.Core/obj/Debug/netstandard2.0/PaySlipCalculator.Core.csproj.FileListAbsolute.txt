@@ -1,0 +1,11 @@
+D:\MyGithub\PaySlip\PaySlipCalculator\PaySlipCalculator.Core\obj\Debug\netstandard2.0\PaySlipCalculator.Core.csproj.CoreCompileInputs.cache
+D:\MyGithub\PaySlip\PaySlipCalculator\PaySlipCalculator.Core\obj\Debug\netstandard2.0\PaySlipCalculator.Core.AssemblyInfoInputs.cache
+D:\MyGithub\PaySlip\PaySlipCalculator\PaySlipCalculator.Core\obj\Debug\netstandard2.0\PaySlipCalculator.Core.AssemblyInfo.cs
+D:\MyGithub\PaySlip\PaySlipCalculator\PaySlipCalculator.Core\bin\Debug\netstandard2.0\PaySlipCalculator.Core.deps.json
+D:\MyGithub\PaySlip\PaySlipCalculator\PaySlipCalculator.Core\bin\Debug\netstandard2.0\PaySlipCalculator.Core.dll
+D:\MyGithub\PaySlip\PaySlipCalculator\PaySlipCalculator.Core\bin\Debug\netstandard2.0\PaySlipCalculator.Core.pdb
+D:\MyGithub\PaySlip\PaySlipCalculator\PaySlipCalculator.Core\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Features.dll
+D:\MyGithub\PaySlip\PaySlipCalculator\PaySlipCalculator.Core\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Features.xml
+D:\MyGithub\PaySlip\PaySlipCalculator\PaySlipCalculator.Core\obj\Debug\netstandard2.0\PaySlipCalculator.Core.csproj.CopyComplete
+D:\MyGithub\PaySlip\PaySlipCalculator\PaySlipCalculator.Core\obj\Debug\netstandard2.0\PaySlipCalculator.Core.dll
+D:\MyGithub\PaySlip\PaySlipCalculator\PaySlipCalculator.Core\obj\Debug\netstandard2.0\PaySlipCalculator.Core.pdb
